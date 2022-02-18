@@ -1,0 +1,6 @@
+{
+    "name": "sign_up_screen",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./SignUpContainer.js"
+}

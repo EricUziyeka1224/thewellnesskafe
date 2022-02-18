@@ -1,0 +1,6 @@
+{
+    "name": "notification_screen",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./NotificationContainer.js"
+}

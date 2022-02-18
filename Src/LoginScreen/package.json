@@ -1,0 +1,6 @@
+{
+    "name": "login_screen",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./LoginContainer.js"
+}

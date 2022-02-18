@@ -1,0 +1,6 @@
+{
+    "name": "social_screen",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./SocialContainer.js"
+}
